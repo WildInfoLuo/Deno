@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+/*************************************************公共样式***************************************************/
+*{margin:0;padding:0;}
+body{font-family:"微软雅黑";font-size:15px;}
+img{border:none;}
+a{text-decoration:none;}
+ul{list-style:none;}
+input{vertical-align:middle;}
+table{border-collapse:collapse;}
+h1{font-size:16px;font-weight:400;}
+
+
+.wrap{width:100%;height:100%;position:fixed;background:url(../img/545fc5c227bc4.jpg) no-repeat center;background-size:100%;}
+	.login_bj{width:460px;height:560px;background:#FFF;opacity:0.4;position:absolute;left:50%;top:50%;margin:-280px 0 0 -230px;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;border:5px solid #666;}
+	.login{width:460px;height:560px;position:absolute;left:50%;top:50%;margin:-280px 0 0 -230px;color:#fff;text-align:center;font-size:24px;}
+		.login h2{font-size:28px;margin-top:28px;}
+		.login table{width:100%;margin-top:20px;}
+			.login td{height:80px;color:#000;text-align:center;}
+			.login td:nth-child(odd){width:165px;}
+			.login input{width:80%;height:50px;line-height:40px;text-align:left;text-indent:10px;font-size:24px;border:none;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+				.login .yzm{width:50%}
+					.yzm_but{width:120px;height:44px;float:right;background:url(../img/yzm.png) no-repeat center;cursor:pointer;}
+
+		
+		/*按钮*/
+		.login button{width:150px;height:50px;float:left;margin-top:40px;font-size:34px;color:#fff;border:1px solid #206eb1;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;cursor:pointer;
+		background: -webkit-linear-gradient(#5db6ff, #2c85d3); /* Safari 5.1 - 6.0 */
+		background: -o-linear-gradient(#5db6ff, #2c85d3); /* Opera 11.1 - 12.0 */
+		background: -moz-linear-gradient(#5db6ff, #2c85d3); /* Firefox 3.6 - 15 */
+		background: linear-gradient(#5db6ff, #2c85d3); /* 标准的语法 */}
+		.zhuce{margin:0 0 0 165px;}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+/*************************************************公共样式***************************************************/
+*{margin:0;padding:0;}
+body{font-family:"微软雅黑";font-size:15px;}
+img{border:none;}
+a{text-decoration:none;}
+ul{list-style:none;}
+input{vertical-align:middle;}
+table{border-collapse:collapse;}
+h1{font-size:16px;font-weight:400;}
+
+
+.wrap{width:100%;height:100%;position:fixed;background:url(../img/545fc5c227bc4.jpg) no-repeat center;background-size:100%;}
+	/*.login_bj{width:700px;height:460px;background:#FFF;opacity:0.4;position:absolute;left:50%;top:50%;margin:-230px 0 0 -350px;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;border:5px solid #666;}
+	.login{width:800px;height:460px;position:absolute;left:50%;top:50%;margin:-230px 0 0 -400px;color:#7d7d7d;font-size:24px;}*/
+	/*.login_bj{width:650px;height:460px;background:#FFF;opacity:0.4;position:absolute;left:50%;top:50%;margin:-230px 0 0 -325px;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;border:5px solid #666;}
+	.login{width:650px;height:460px;position:absolute;left:50%;top:50%;margin:-230px 0 0 -325px;color:#7d7d7d;font-size:24px;}*/
+	.login_bj{width:600px;height:400px;background:#FFF;opacity:0.4;position:absolute;left:50%;top:50%;margin:-200px 0 0 -300px;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;border:5px solid #666;}
+	.login{width:600px;height:400px;position:absolute;left:50%;top:50%;margin:-200px 0 0 -300px;color:#7d7d7d;font-size:24px;}
+		/*账户*/
+		.zhanghao{width:500px;height:80px;margin:40px auto 30px auto;background:url(../img/zhanghao.png) no-repeat left center;}
+			.zh{width:400px;height:60px;float:left;margin:15px 0 0 90px;font-size:32px;text-indent:10px;color:#000;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;border:none;}
+		/*密码*/
+		.mima{width:500px;height:80px;margin:0px auto 30px auto;background:url(../img/mima.png) no-repeat left center;}
+			.mm{width:400px;height:60px;float:left;margin:15px 0 0 90px;font-size:32px;text-indent:10px;color:#000;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;border:none;}
+		/*记住账户*/
+		.jizhuzhanghu{width:500px;height:30px;margin:0 auto;}
+			.jz{width:30px;height:30px;line-height:30px;text-align:center;font-size:28px;font-weight:bold;float:left;margin:0 15px 0 60px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;overflow:hidden;border:2px solid #cbcbcb;background:#fff;}
+
+		/*忘记密码*/
+		.wangjimima{float:right;color:#6363ff;margin-right:50px;cursor:pointer;}
+		/*按钮*/
+		.login a{width:130px;height:50px;float:left;margin-top:40px;font-size:34px;font-weight:bold;color:#fff;border:1px solid #206eb1;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;cursor:pointer;
+		background: -webkit-linear-gradient(#5db6ff, #2c85d3); /* Safari 5.1 - 6.0 */
+		background: -o-linear-gradient(#5db6ff, #2c85d3); /* Opera 11.1 - 12.0 */
+		background: -moz-linear-gradient(#5db6ff, #2c85d3); /* Firefox 3.6 - 15 */
+		background: linear-gradient(#5db6ff, #2c85d3); /* 标准的语法 */}
+		.denglu{margin:0 0 0 -60px;padding:0 0 0 40px}
+		.zhuce{margin:0 0 0 110px;padding:0 0 0 40px}
+
+
+
+
+
+
+
+
+
+
+
+
+
